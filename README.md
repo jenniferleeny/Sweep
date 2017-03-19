@@ -1,4 +1,4 @@
-#API
+## API
 
 AVCamBarcode: Using AVFoundation to Detect Barcodes and Faces. AVCamBarcode demonstrates how to use the AVFoundation capture API to detect barcodes and faces.
 
